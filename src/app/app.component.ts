@@ -13,7 +13,7 @@ export class AppComponent implements OnInit {
   apiURL: string;
 
   constructor(private http: HttpClient) {
-    this.apiURL = 'https://married-clerissa-enzocodes.koyeb.app';
+    this.apiURL = 'https://surrounding-zsazsa-gio.koyeb.app';
   }
 
   ngOnInit() {
